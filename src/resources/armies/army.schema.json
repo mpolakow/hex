@@ -159,6 +159,7 @@
                     "mobility",
                     "pushback",
                     "small_bomb",
+                    "sniper",
                     "venom"
                   ]
                 }
@@ -185,7 +186,9 @@
                     "melee",
                     "net",
                     "quatermaster",
-                    "riffle"
+                    "recon",
+                    "riffle",
+                    "scoper"
                   ]
                 },
                 "value": {
